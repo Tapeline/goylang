@@ -1,0 +1,7 @@
+numinput a
+numinput b
+if b == 0 {
+	out "Cannot divide by 0"
+} else { 
+	out a / b 
+}
